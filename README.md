@@ -5,9 +5,8 @@
 
 Um pouco sobre mim
 - 🔭 Atualmente estou estudando tanto Front End quanto Back End, mas eu me identifico mais com Back-end.
-- 🌱 Estou aprendendo ReactJs e as tecnologias que englobam ele hoje em dia. Junto com NodeJs e criação de API REST
+- 🌱 Estou aprendendo NextJS e GraphQL.
 - 👯 Estou procurando colaborar com qualquer projeto que meus serviços sejam uteis, e desposto a aprender coisas novas
-- 💬 Pergunte-me sobre html e css e javascript que talvez eu possa te ajudar 
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
 <div align="center">
