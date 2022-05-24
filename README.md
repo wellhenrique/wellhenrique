@@ -4,8 +4,7 @@
 ##
 
 Um pouco sobre mim
-- 🔭 Atualmente estou estudando tanto Front End quanto Back End, mas eu me identifico mais com Back-end.
-- 🌱 Estou aprendendo NextJS e GraphQL.
+- 🔭 Atualmente estou TDD e GraphQL.
 - 👯 Estou procurando colaborar com qualquer projeto que meus serviços sejam uteis, e desposto a aprender coisas novas
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
