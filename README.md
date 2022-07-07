@@ -4,8 +4,8 @@
 ##
 
 Um pouco sobre mim
-- 🔭 Atualmente estou TDD e GraphQL.
-- 👯 Estou procurando colaborar com qualquer projeto que meus serviços sejam uteis, e desposto a aprender coisas novas
+- 🔭 Atualmente estou estudando React Native.
+- 👯 disposto a aprender coisas novas
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
 <div align="center">
