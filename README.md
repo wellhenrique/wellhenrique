@@ -4,7 +4,7 @@
 ##
 
 Um pouco sobre mim
-- 🔭 Atualmente estou estudando React Native.
+- 🔭 Atualmente estou se especializando em React.
 - 👯 disposto a aprender coisas novas
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
