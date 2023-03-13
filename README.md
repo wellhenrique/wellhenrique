@@ -1,5 +1,4 @@
-### Olá 👋, eu sou Welisson Henrique,
-#### Mas pode me chamar de Henrique
+### Full Stack developer
 
 ##
 
