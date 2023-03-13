@@ -5,6 +5,7 @@
 
 Um pouco sobre mim
 - 🔭 Atualmente me aprofundando em React Native/Firebase e Clean Code.
+- Trabalho com ReactJS e NodeJS
 - 👯 disposto a aprender coisas novas
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
