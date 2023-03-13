@@ -4,7 +4,7 @@
 ##
 
 Um pouco sobre mim
-- 🔭 Atualmente estou me especializando em React.
+- 🔭 Atualmente me aprofundando em React Native/Firebase e Clean Code.
 - 👯 disposto a aprender coisas novas
 - ⚡ ... Eu adoro jogos de construção, rpg e simulação 
 
