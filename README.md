@@ -3,10 +3,12 @@
 ##
 
 Um pouco sobre mim
-- 🔭 Atualmente me aprofundando em React Native/Firebase e Clean Code.
-- 💻 Trabalho com ReactJS e NodeJS
-- 👯 disposto a aprender coisas novas
-- ⚡ Eu adoro jogos de construção, rpg, simulação e sobrevivência
+- Atualmente me aprofundando em React Native/Firebase e Clean Code.
+- Trabalho com ReactJS e NodeJS
+- Conhecimentos em C# e .NET
+- Conhecimento em Serviços Windows
+- disposto a aprender coisas novas
+- Eu adoro jogos de construção, rpg, simulação e sobrevivência
 
 <div align="center">
   <a href="github.com/wellhenrique">
