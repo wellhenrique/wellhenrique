@@ -7,8 +7,8 @@ Um pouco sobre mim
 - Trabalho com ReactJS e NodeJS
 - Conhecimentos em C# e .NET
 - Conhecimento em Serviços Windows
-- disposto a aprender coisas novas
-- Eu adoro jogos de construção, rpg, simulação e sobrevivência
+- Disposto a aprender coisas novas
+- Adoro jogos de construção, rpg, simulação e sobrevivência
 
 <div align="center">
   <a href="github.com/wellhenrique">
