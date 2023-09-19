@@ -24,7 +24,6 @@ Um pouco sobre mim
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-        <img align="right" alt="well-pic" height="150" style="border-radius:50px;" src="https://github.com/wellhenrique/wellhenrique/blob/main/meAvatar.png">
 </div>
   
 ##
